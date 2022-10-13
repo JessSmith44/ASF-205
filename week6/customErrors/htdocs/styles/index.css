@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(191, 151, 241);
+}
+.header{
+    text-decoration: dotted;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para{
+    border: 1rem;
+    width: 300px;
+}
