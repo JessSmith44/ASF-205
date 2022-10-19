@@ -1,0 +1,74 @@
+html {
+    height: 100%;
+    background: linen;
+    overflow: hidden;
+  }
+  .header{
+    color: rgb(68, 44, 44);
+    text-align: center;
+    margin-top: 23%;
+    opacity: .6;
+  }
+  h1{
+      font-weight: 300;
+      font-size: 2em;
+      line-height: 1.2;
+      margin: 10px 0;
+      text-decoration: underline lightslategrey;
+      font-family: 'Corinthia', cursive;
+      font-family: 'Dancing Script', cursive;
+      font-family: 'Comforter', cursive;
+      font-family: 'Coming Soon', cursive;
+      font-family: 'Indie Flower', cursive;
+      font-family: 'Kings', cursive;
+      font-family: 'Annie Use Your Telescope', cursive;
+      font-family: 'BenchNine', sans-serif;
+      font-family: 'Stardos Stencil', cursive;
+  }
+  ul{
+      list-style-type: none;
+  }
+  a{
+      text-decoration: none;
+      color: rgb(68, 44, 44);
+  }
+  .navbar{
+      color: rgb(68, 44, 44);
+      height: 70px;
+  }
+  nav{
+      display: inline;
+      position: relative;
+      text-align: right;
+      padding: 0;
+      
+  }
+  .linkButtons{
+      text-decoration: none;
+      list-style: none;
+      padding: 0;
+      position: relative;
+      display: inline;
+      float: right;
+  }
+  .linkButtons li{
+      display: inline-block;
+  }
+  .linkButtons li a{
+      font-size: 20px;
+      padding: 10px;
+      margin: 0 5px;
+  }
+  a:hover{
+      border-bottom: 2px rgb(0, 0, 0) solid;
+  }
+  .text{
+      color: rgb(68, 44, 44);
+      margin-top: 15%;
+      margin-left: 15%;
+      margin-right: 15%;
+  }
+  .textAtag{
+      color:darkcyan;
+  }
+  

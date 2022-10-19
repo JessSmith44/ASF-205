@@ -1,0 +1,9 @@
+*{
+    background-image: url("errorImageFixed.jpg");
+    background-color: rgb(246, 80, 80);
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+    margin-top: 10%;
+}
